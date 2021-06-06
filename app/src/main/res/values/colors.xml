@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorSecondary">#BDBDBD</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background_light">#ffffff</color>
+    <color name="icon_tint">#888787</color>
+    <color name="nav_selected_color">#0DE10D</color>
+    <color name="card_bg_color">#fbfbfb</color>
+    <color name="settings_light">#AA151515</color>
+
+
+    <color name="purple_200">#08EE00</color>
+    <color name="purple_500">#08EE00</color>
+
+    <!-- TODO: dont change night or light -->
+    <color name="primaryGreen">#06B300</color>
+    <color name="secondaryGreen">#38AC34</color>
+
+    <color name="graydark">#7E7E7E</color>
+    <color name="dark90">#F7F7F7</color>
+    <color name="dark80">#E1E1E1</color>
+    <color name="dark70">#CFCFCF</color>
+    <color name="dark60">#B1B1B1</color>
+    <color name="dark50">#9E9E9E</color>
+    <color name="dark40">#7E7E7E</color>
+    <color name="dark30">#626262</color>
+    <color name="dark20">#515151</color>
+    <color name="dark10">#3B3B3B</color>
+    <color name="dark5">#222222</color>
+    <color name="darkabs">#000000</color>
+    
+
+
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="icon_tint_light">#afafaf</color>
+</resources>

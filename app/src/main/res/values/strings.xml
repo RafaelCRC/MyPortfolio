@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MyPortifolio</string>
+
+    <!-- TODO: Home -->
+    <string name="home_nome">Rafael Cardoso</string>
+    <string name="home_subtitle"> Student &amp; Programmer</string>
+    <string name="home_the_app">The App</string>
+    <string name="home_the_app_text">Basically the application is a digital curriculum that will show my professional and personal information such as skills, occupations, contact, training etc... Anyway, I hope you like it.</string>
+    <string name="home_aboutme">About Me</string>
+    <string name="home_aboutme_text">My name is Rafael, I am a student at UNICAP and I consider myself a very sociable person when you get to know myself better, I have been fascinated with technology and computers since my childhood, and using the computer for games is one of my hobbies.</string>
+    <string name="home_currently_occupation">Currently Occupation</string>
+    <string name="home_currently_occupation_text">I am currently unemployed, but studying at the Catholic University of Pernambuco and aspiring to be a developer of artificial intelligence.</string>
+
+    <!-- TODO: Skills -->
+    <string name="skillsTitle">Skills</string>
+    <string name="skills_textone">On this page are most of my skills that I acquired during my training, experiences, skills and other knowledge.</string>
+    <string name="main_languages">Main Languages &amp; Softwares</string>
+    <string name="others">Tools and Technologies</string>
+    <string name="OthersText">- Agile Methodologies \n- Web Development \n- Microsoft Office \n- Database</string>
+    <string name="personal_qualities">interpersonal Skills</string>
+    <string name="PQText">- Sociable \n- Communicative \n- Fast Learner \n- Responsible</string>
+
+    <!-- TODO: Profile -->
+    <string name="profile_location">Recife, Brazil</string>
+    <string name="profile_school_education">School education: Complete at Damas High School</string>
+    <string name="profile_formation">Formation: ongoing at UNICAP</string>
+    <string name="profile_contact_title">Contact</string>
+    <string name="profile_email">rafael.2019107852@unicap.br</string>
+    <string name="profile_number">(81) 996186591</string>
+    <string name="profile_social_media">Social media</string>
+
+    <!-- TODO: Settings -->
+    <string name="settings">Settings</string>
+    <string name="languagenow">English</string>
+    <string-array name="linguas">
+        <item>English</item>
+        <item>Portuguese</item>
+        <item>Chinese</item>
+    </string-array>
+    <string name="languagetext">Language</string>
+    <string name="settings_themehint">Theme</string>
+    <string name="darkmodetext">DarkMode</string>
+    <string name="settings_themepreset">DarkMode</string>
+
+</resources>

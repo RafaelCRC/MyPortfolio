@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyPortifolio</string>
+
+    <!-- TODO: Home -->
+    <string name="home_nome">Rafael Cardoso</string>
+    <string name="home_subtitle"> 学生和程序员</string>
+    <string name="home_the_app">应用程序</string>
+    <string name="home_the_app_text">基本上这个应用程序是一个数字课程，它会显示我的专业和个人信息，如技能、职业、联系方式、培训等……无论如何，我希望你喜欢它。</string>
+    <string name="home_aboutme">关于我</string>
+    <string name="home_aboutme_text">我叫 Rafael，我是 UNICAP 的一名学生，当你更好地了解自己时，我认为自己是一个非常善于交际的人，我从小就对技术和电脑着迷，用电脑玩游戏是我的爱好之</string>
+    <string name="home_currently_occupation">目前职业</string>
+    <string name="home_currently_occupation_text">我目前失业，但在伯南布哥天主教大学学习，并渴望成为人工智能的开发者。</string>
+
+    <!-- TODO: Skills -->
+    <string name="skillsTitle">技能</string>
+    <string name="skills_textone">这个页面上是我在培训中获得的大部分技能、经验、技能和其他知识。</string>
+    <string name="main_languages">主要语言和软件</string>
+    <string name="others">工具和技术</string>
+    <string name="OthersText">- 敏捷方法论 \n- 网络开发 \n- Microsoft Office \n- 数据库</string>
+    <string name="personal_qualities">个人技能</string>
+    <string name="PQText">- 善于交际 \n- 交际 \n- 快速学习者 \n- 负责任的</string>
+
+    <!-- TODO: Profile -->
+    <string name="profile_location">Recife, Brazil</string>
+    <string name="profile_school_education">学校教育：在Damas高中完成</string>
+    <string name="profile_formation">组建：在 UNICAP 进行中</string>
+    <string name="profile_contact_title">接触</string>
+    <string name="profile_email">rafael.2019107852@unicap.br</string>
+    <string name="profile_number">(81) 996186591</string>
+    <string name="profile_social_media">社交媒体</string>
+
+    <!-- TODO: Settings -->
+    <string name="settings">设置</string>
+    <string name="languagenow">中文</string>
+    <string-array name="linguas">
+        <item>English</item>
+        <item>Portuguese</item>
+        <item>Chinese</item>
+    </string-array>
+    <string name="languagetext">语</string>
+    <string name="settings_themehint">主题</string>
+    <string name="darkmodetext">黑暗模式</string>
+    <string name="settings_themepreset">黑暗模式</string>
+</resources>

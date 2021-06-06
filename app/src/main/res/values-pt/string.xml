@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MyPortifolio</string>
+
+    <!-- TODO: Menu -->
+    <string name="home_nome">Rafael Cardoso</string>
+    <string name="home_subtitle"> Estudante &amp; Programador</string>
+    <string name="home_the_app">O Aplicativo</string>
+    <string name="home_the_app_text">Basicamente o aplicativo se trata de um currículo digital que mostrará minhas informações profissionais e pessoais como competências, ocupações, contato, formação etc... Enfim, espero que goste.</string>
+    <string name="home_aboutme">Sobre Mim</string>
+    <string name="home_aboutme_text">Meu nome é Rafael, sou estudante na UNICAP e me considero uma pessoa muito sociável quando me conhecer melhor, tenho fascínio em tecnologia e computação dês de minha infância, e usar o computador para jogos é um dos meus hobbies.</string>
+    <string name="home_currently_occupation">Ocupação Atualmente</string>
+    <string name="home_currently_occupation_text">No momento estou desempregado, porém estudando na universidade católica de Pernambuco e aspirando para desenvolvedor de inteligencia artificial.</string>
+
+    <!-- TODO: Competencias -->
+    <string name="skillsTitle">Competências</string>
+    <string name="skills_textone">Nessa página estão boa parte das minhas competências que adiquiri durante minha formação, experiências, habilidades e outros conhecimentos.</string>
+    <string name="main_languages">Línguas e Softwares Principais</string>
+    <string name="others">Ferramentas e tecnologias</string>
+    <string name="OthersText">- Metodologias ágeis \n- Desenvolvimento web \n- Microsoft Office \n- Banco de Dados</string>
+    <string name="personal_qualities">Competências Interpessoais</string>
+    <string name="PQText">- Sociável \n- Comunicativo \n- Aprende Rápido \n- Responsável</string>
+
+    <!-- TODO: Perfil -->
+    <string name="profile_location">Recife, Brasil</string>
+    <string name="profile_school_education">Educação escolar: Completa no Colégio Damas</string>
+    <string name="profile_formation">Formação: Em andamento na UNICAP</string>
+    <string name="profile_contact_title">Contato</string>
+    <string name="profile_email">rafael.2019107852@unicap.br</string>
+    <string name="profile_number">(81) 996186591</string>
+    <string name="profile_social_media">Redes Sociais</string>
+
+    <!-- TODO: Configuracoes -->
+    <string name="settings">Configurações</string>
+    <string name="languagenow">Português</string>
+    <string-array name="linguas">
+        <item>English</item>
+        <item>Portuguese</item>
+        <item>Chinese</item>
+    </string-array>
+    <string name="languagetext">Língua</string>
+    <string name="darkmodetext">ModoEscuro</string>
+    <string name="settings_themepreset">ModoEscuro</string>
+    <string name="settings_themehint">Tema</string>
+
+</resources>
